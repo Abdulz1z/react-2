@@ -68,7 +68,7 @@ function App() {
                      Population: 81,770,900
                   </p>
                   <p>Region: Europe</p>
-                  <p>Capital: Berlin</p>
+                  <p>Capital: Berlin</p>git
                </section>
             </main>
          </div>
